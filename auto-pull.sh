@@ -1,4 +1,5 @@
 #!/bin/bash
 cd /workspaces/codespaces-blank  
-git pull origin main
+git pull origin master
+
 
